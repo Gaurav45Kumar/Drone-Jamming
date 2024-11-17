@@ -1,0 +1,326 @@
+2024-11-17 20:12:56,994 - INFO - Initial communication channel set to: 1
+2024-11-17 20:12:57,523 - INFO - Machine Learning Jamming Detector Trained Successfully
+2024-11-17 20:12:57,593 - INFO - Encryption Cipher Initialized
+2024-11-17 20:13:05,272 - INFO - Max amplitude detected: 244.96759436088055
+2024-11-17 20:13:05,272 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 20:13:05,272 - INFO - Switched to Channel 3 due to interference.
+2024-11-17 20:13:05,293 - WARNING - Jamming Pattern Detected by Machine Learning Model
+2024-11-17 20:13:05,294 - INFO - Switched to Channel 2 due to interference.
+2024-11-17 20:13:05,330 - INFO - Message encrypted for secure transmission
+2024-11-17 20:13:05,330 - INFO - Message decrypted successfully
+2024-11-17 20:17:35,392 - INFO - Max amplitude detected: 242.63988235231983
+2024-11-17 20:17:35,392 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 20:17:35,392 - INFO - Switched to Channel 3 due to interference.
+2024-11-17 20:17:35,396 - WARNING - Jamming Pattern Detected by Machine Learning Model
+2024-11-17 20:17:35,405 - INFO - Switched to Channel 1 due to interference.
+2024-11-17 20:17:35,413 - INFO - Message encrypted for secure transmission
+2024-11-17 20:17:35,416 - INFO - Message decrypted successfully
+2024-11-17 20:20:14,355 - INFO - Max amplitude detected: 244.26896544157788
+2024-11-17 20:20:14,357 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 20:20:14,357 - INFO - Switched to Channel 2 due to interference.
+2024-11-17 20:20:14,359 - WARNING - Jamming Pattern Detected by Machine Learning Model
+2024-11-17 20:20:14,359 - INFO - Switched to Channel 1 due to interference.
+2024-11-17 20:20:14,364 - INFO - Message encrypted for secure transmission
+2024-11-17 20:20:14,364 - INFO - Message decrypted successfully
+2024-11-17 20:25:44,758 - INFO - Initial communication channel set to: 5
+2024-11-17 20:25:45,064 - INFO - ML Jamming Detector Trained Successfully
+2024-11-17 20:25:45,079 - INFO - Encryption Cipher Initialized
+2024-11-17 20:26:57,136 - INFO - Max amplitude detected: 237.01584010313658
+2024-11-17 20:26:57,139 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 20:26:57,140 - INFO - Switched to Channel 4 due to interference.
+2024-11-17 20:26:57,148 - WARNING - Jamming Pattern Detected by ML Model
+2024-11-17 20:26:57,149 - INFO - Switched to Channel 5 due to interference.
+2024-11-17 20:26:57,170 - INFO - Message encrypted for secure transmission
+2024-11-17 20:26:57,170 - INFO - Message decrypted successfully
+2024-11-17 22:57:33,312 - INFO - Initial communication channel set to: 3
+2024-11-17 22:57:33,499 - INFO - Machine Learning Jamming Detector Trained Successfully
+2024-11-17 22:57:33,499 - INFO - Encryption Cipher Initialized
+2024-11-17 22:58:18,668 - INFO - Max amplitude detected: 253.13239550544043
+2024-11-17 22:58:18,668 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 22:58:18,668 - INFO - Switched to Channel 1 due to interference.
+2024-11-17 22:58:18,677 - WARNING - Jamming Pattern Detected by Machine Learning Model
+2024-11-17 22:58:18,677 - INFO - Switched to Channel 5 due to interference.
+2024-11-17 22:58:18,677 - WARNING - Countermeasure activated: Attempting to disrupt jamming source.
+2024-11-17 22:58:18,698 - INFO - Message encrypted for secure transmission
+2024-11-17 22:58:18,698 - INFO - Message decrypted successfully
+2024-11-17 22:59:52,387 - INFO - Max amplitude detected: 229.54613909807074
+2024-11-17 22:59:52,387 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 22:59:52,388 - INFO - Switched to Channel 2 due to interference.
+2024-11-17 22:59:52,407 - WARNING - Jamming Pattern Detected by Machine Learning Model
+2024-11-17 22:59:52,409 - INFO - Switched to Channel 1 due to interference.
+2024-11-17 22:59:52,420 - WARNING - Countermeasure activated: Attempting to disrupt jamming source.
+2024-11-17 22:59:52,421 - INFO - Message encrypted for secure transmission
+2024-11-17 22:59:52,421 - INFO - Message decrypted successfully
+2024-11-17 23:00:30,626 - INFO - Initial communication channel set to: 2
+2024-11-17 23:00:30,798 - INFO - Machine Learning Jamming Detector Trained Successfully
+2024-11-17 23:00:30,799 - INFO - Encryption Cipher Initialized
+2024-11-17 23:00:35,968 - INFO - Max amplitude detected: 239.13370366765673
+2024-11-17 23:00:35,970 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 23:00:35,970 - INFO - Switched to Channel 5 due to interference.
+2024-11-17 23:00:35,975 - WARNING - Jamming Pattern Detected by Machine Learning Model
+2024-11-17 23:00:35,975 - INFO - Switched to Channel 4 due to interference.
+2024-11-17 23:00:35,980 - WARNING - Countermeasure activated: Attempting to disrupt jamming source.
+2024-11-17 23:00:35,984 - INFO - Message encrypted for secure transmission
+2024-11-17 23:00:35,989 - INFO - Message decrypted successfully
+2024-11-17 23:01:07,639 - INFO - Initial communication channel set to: 5
+2024-11-17 23:01:07,798 - INFO - Machine Learning Jamming Detector Trained Successfully
+2024-11-17 23:01:07,798 - INFO - Encryption Cipher Initialized
+2024-11-17 23:01:12,344 - INFO - Max amplitude detected: 497.6030827750601
+2024-11-17 23:01:12,345 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 23:01:12,345 - INFO - Switched to Channel 3 due to interference.
+2024-11-17 23:01:12,354 - WARNING - Jamming Pattern Detected by Machine Learning Model
+2024-11-17 23:01:12,355 - INFO - Switched to Channel 5 due to interference.
+2024-11-17 23:01:12,362 - INFO - Message encrypted for secure transmission
+2024-11-17 23:01:12,369 - INFO - Message decrypted successfully
+2024-11-17 23:01:48,618 - INFO - Max amplitude detected: 526.8898023393666
+2024-11-17 23:01:48,618 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 23:01:48,620 - INFO - Switched to Channel 3 due to interference.
+2024-11-17 23:01:48,622 - WARNING - Jamming Pattern Detected by Machine Learning Model
+2024-11-17 23:01:48,622 - INFO - Switched to Channel 5 due to interference.
+2024-11-17 23:01:48,622 - INFO - Message encrypted for secure transmission
+2024-11-17 23:01:48,627 - INFO - Message decrypted successfully
+2024-11-17 23:03:27,051 - INFO - Initial communication channel set to: 2
+2024-11-17 23:03:27,207 - INFO - Machine Learning Jamming Detector Trained Successfully
+2024-11-17 23:03:27,207 - INFO - Encryption Cipher Initialized
+2024-11-17 23:03:32,343 - INFO - Max amplitude detected: 539.1332803028392
+2024-11-17 23:03:32,344 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 23:03:32,344 - INFO - Switched to Channel 3 due to interference.
+2024-11-17 23:03:32,348 - WARNING - Jamming Pattern Detected by Machine Learning Model
+2024-11-17 23:03:32,348 - INFO - Switched to Channel 4 due to interference.
+2024-11-17 23:03:32,360 - INFO - Message encrypted for secure transmission
+2024-11-17 23:03:32,363 - INFO - Message decrypted successfully
+2024-11-17 23:05:48,372 - INFO - Initial communication channel set to: 5
+2024-11-17 23:05:48,517 - INFO - Machine Learning Jamming Detector Trained Successfully
+2024-11-17 23:05:48,517 - INFO - Encryption Cipher Initialized
+2024-11-17 23:05:52,870 - INFO - Max amplitude detected: 363.5592058107623
+2024-11-17 23:05:52,870 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 23:05:52,870 - INFO - Switched to Channel 4 due to interference.
+2024-11-17 23:05:52,873 - WARNING - Jamming Pattern Detected by Machine Learning Model
+2024-11-17 23:05:52,873 - INFO - Switched to Channel 3 due to interference.
+2024-11-17 23:05:52,885 - INFO - Message encrypted for secure transmission
+2024-11-17 23:05:52,885 - INFO - Message decrypted successfully
+2024-11-17 23:06:13,787 - INFO - Switched to Channel 5 as per user choice.
+2024-11-17 23:08:27,089 - INFO - Initial communication channel set to: 5
+2024-11-17 23:08:27,255 - INFO - Machine Learning Jamming Detector Trained Successfully
+2024-11-17 23:08:27,256 - INFO - Encryption Cipher Initialized
+2024-11-17 23:08:36,727 - INFO - Max amplitude detected: 237.2793390258583
+2024-11-17 23:08:36,728 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 23:08:36,729 - INFO - Switched to Channel 3 due to interference.
+2024-11-17 23:08:36,731 - WARNING - Jamming Pattern Detected by Machine Learning Model
+2024-11-17 23:08:36,731 - INFO - Switched to Channel 2 due to interference.
+2024-11-17 23:08:36,731 - INFO - Frequency hopping: Switched to Channel 5
+2024-11-17 23:08:36,746 - INFO - Message encrypted for secure transmission
+2024-11-17 23:08:36,750 - INFO - Message decrypted successfully
+2024-11-17 23:13:06,785 - INFO - Initial cognitive radio channel set to: 1
+2024-11-17 23:13:06,961 - INFO - Machine Learning Jamming Detector Trained Successfully
+2024-11-17 23:13:06,961 - INFO - Encryption Cipher Initialized
+2024-11-17 23:13:06,962 - INFO - Max amplitude detected: 256.1559630596921
+2024-11-17 23:13:06,962 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 23:13:06,962 - INFO - Sensing environment: available channels [1, 2, 3, 4, 5]
+2024-11-17 23:13:06,962 - INFO - Switched to Channel 4 due to interference.
+2024-11-17 23:13:06,964 - INFO - Power adjusted to: 7.0 based on interference level.
+2024-11-17 23:13:06,966 - INFO - Message encrypted for secure transmission
+2024-11-17 23:13:06,966 - INFO - Message decrypted successfully
+2024-11-17 23:13:12,757 - INFO - Max amplitude detected: 263.4055613158746
+2024-11-17 23:13:12,759 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 23:13:12,759 - INFO - Sensing environment: available channels [2, 4, 5]
+2024-11-17 23:13:12,759 - INFO - Switched to Channel 4 due to interference.
+2024-11-17 23:13:12,763 - INFO - Power adjusted to: 10 based on interference level.
+2024-11-17 23:13:12,765 - INFO - Message encrypted for secure transmission
+2024-11-17 23:13:12,765 - INFO - Message decrypted successfully
+2024-11-17 23:13:18,195 - INFO - Max amplitude detected: 255.83559687990277
+2024-11-17 23:13:18,195 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 23:13:18,198 - INFO - Sensing environment: available channels [4, 5]
+2024-11-17 23:13:18,199 - INFO - Switched to Channel 4 due to interference.
+2024-11-17 23:13:18,201 - INFO - Power adjusted to: 7.0 based on interference level.
+2024-11-17 23:13:18,203 - INFO - Message encrypted for secure transmission
+2024-11-17 23:13:18,205 - INFO - Message decrypted successfully
+2024-11-17 23:13:23,662 - INFO - Max amplitude detected: 247.8801579314095
+2024-11-17 23:13:23,665 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 23:13:23,665 - INFO - Sensing environment: available channels [4, 5]
+2024-11-17 23:13:23,667 - INFO - Switched to Channel 5 due to interference.
+2024-11-17 23:13:23,671 - INFO - Power adjusted to: 10 based on interference level.
+2024-11-17 23:13:23,674 - INFO - Message encrypted for secure transmission
+2024-11-17 23:13:23,687 - INFO - Message decrypted successfully
+2024-11-17 23:13:28,695 - INFO - Max amplitude detected: 280.7694661244856
+2024-11-17 23:13:28,696 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 23:13:28,698 - INFO - Sensing environment: available channels [4, 5]
+2024-11-17 23:13:28,698 - INFO - Switched to Channel 5 due to interference.
+2024-11-17 23:13:28,701 - WARNING - Jamming Pattern Detected by Neural Network Model
+2024-11-17 23:13:28,703 - INFO - Sensing environment: available channels [4]
+2024-11-17 23:13:28,704 - INFO - Switched to Channel 4 due to interference.
+2024-11-17 23:13:28,705 - INFO - Power adjusted to: 10 based on interference level.
+2024-11-17 23:13:28,706 - INFO - Message encrypted for secure transmission
+2024-11-17 23:13:28,708 - INFO - Message decrypted successfully
+2024-11-17 23:13:40,991 - INFO - Initial communication channel set to: 3
+2024-11-17 23:13:41,150 - INFO - Machine Learning Jamming Detector Trained Successfully
+2024-11-17 23:13:41,150 - INFO - Encryption Cipher Initialized
+2024-11-17 23:15:20,562 - INFO - Initial communication channel set to: 4
+2024-11-17 23:15:20,717 - INFO - Machine Learning Jamming Detector Trained Successfully
+2024-11-17 23:15:20,723 - INFO - Encryption Cipher Initialized
+2024-11-17 23:15:25,863 - INFO - Max amplitude detected: 404.7693389836396
+2024-11-17 23:15:25,865 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 23:15:25,865 - INFO - Switched to Channel 2 due to interference.
+2024-11-17 23:15:25,867 - WARNING - Jamming Pattern Detected by Machine Learning Model
+2024-11-17 23:15:25,867 - INFO - Switched to Channel 4 due to interference.
+2024-11-17 23:15:25,867 - INFO - Frequency hopping: Switched to Channel 1
+2024-11-17 23:15:25,875 - INFO - Switched to Channel 5 due to interference.
+2024-11-17 23:15:25,876 - INFO - Recovery initiated: Switched to a new channel.
+2024-11-17 23:15:25,887 - INFO - Message encrypted for secure transmission
+2024-11-17 23:15:25,887 - INFO - Message decrypted successfully
+2024-11-17 23:18:03,503 - INFO - Initial communication channel set to: 5
+2024-11-17 23:18:03,662 - INFO - Machine Learning Jamming Detector Trained Successfully
+2024-11-17 23:18:03,662 - INFO - Encryption Cipher Initialized
+2024-11-17 23:18:08,653 - INFO - Max amplitude detected: 234.51731955826938
+2024-11-17 23:18:08,654 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 23:18:08,655 - INFO - Switched to Channel 1 due to interference.
+2024-11-17 23:18:08,666 - WARNING - Jamming Pattern Detected by Machine Learning Model
+2024-11-17 23:18:08,670 - INFO - Switched to Channel 5 due to interference.
+2024-11-17 23:18:08,670 - INFO - Frequency hopping: Switched to Channel 4
+2024-11-17 23:18:08,673 - INFO - Switched to Channel 3 due to interference.
+2024-11-17 23:18:08,673 - INFO - Recovery initiated: Switched to a new channel.
+2024-11-17 23:18:08,680 - INFO - Message encrypted for secure transmission
+2024-11-17 23:18:08,680 - INFO - Message decrypted successfully
+2024-11-17 23:22:20,152 - INFO - Initial communication channel set to: 1
+2024-11-17 23:22:20,152 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,152 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,152 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,152 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 0.1.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,155 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,166 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,166 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,166 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,166 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,166 - INFO - Signal generated with frequency 50 Hz and noise level 1.5.
+2024-11-17 23:22:20,378 - INFO - Machine Learning Jamming Detector Trained Successfully
+2024-11-17 23:22:20,378 - INFO - Encryption Cipher Initialized
+2024-11-17 23:22:25,927 - INFO - Signal generated with frequency 50.0 Hz and noise level 0.8.
+2024-11-17 23:22:25,928 - INFO - Max amplitude detected: 263.9685732725665
+2024-11-17 23:22:25,930 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 23:22:25,930 - INFO - Switched to Channel 4 due to interference.
+2024-11-17 23:22:25,940 - WARNING - Jamming Pattern Detected by Machine Learning Model
+2024-11-17 23:22:25,940 - INFO - Switched to Channel 1 due to interference.
+2024-11-17 23:22:25,941 - INFO - Frequency hopping: Switched to Channel 5
+2024-11-17 23:22:25,943 - INFO - Switched to Channel 2 due to interference.
+2024-11-17 23:22:25,945 - INFO - Recovery initiated: Switched to a new channel.
+2024-11-17 23:22:25,949 - INFO - Message encrypted for secure transmission
+2024-11-17 23:22:25,949 - INFO - Message decrypted successfully
+2024-11-17 23:22:44,713 - INFO - Initial communication channel set to: 4
+2024-11-17 23:22:44,877 - INFO - Machine Learning Jamming Detector Trained Successfully
+2024-11-17 23:22:44,878 - INFO - Encryption Cipher Initialized
+2024-11-17 23:22:53,282 - INFO - Max amplitude detected: 702.1895100275342
+2024-11-17 23:22:53,283 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 23:22:53,292 - INFO - Switched to Channel 3 due to interference.
+2024-11-17 23:22:53,296 - WARNING - Jamming Pattern Detected by Machine Learning Model
+2024-11-17 23:22:53,304 - INFO - Switched to Channel 4 due to interference.
+2024-11-17 23:22:53,304 - INFO - Frequency hopping: Switched to Channel 3
+2024-11-17 23:22:53,305 - INFO - Switched to Channel 5 due to interference.
+2024-11-17 23:22:53,306 - INFO - Recovery initiated: Switched to a new channel.
+2024-11-17 23:22:53,308 - INFO - Message encrypted for secure transmission
+2024-11-17 23:22:53,312 - INFO - Message decrypted successfully
+2024-11-17 23:25:47,931 - INFO - Initial communication channel set to: 3
+2024-11-17 23:25:48,117 - INFO - Machine Learning Jamming Detector Trained Successfully
+2024-11-17 23:25:48,117 - INFO - Encryption Cipher Initialized
+2024-11-17 23:25:53,098 - INFO - Max amplitude detected: 622.9264993506941
+2024-11-17 23:25:53,099 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-11-17 23:25:53,099 - INFO - Switched to Channel 2 due to interference.
+2024-11-17 23:25:53,112 - WARNING - Jamming Pattern Detected by Machine Learning Model
+2024-11-17 23:25:53,112 - INFO - Switched to Channel 4 due to interference.
+2024-11-17 23:25:53,113 - INFO - Frequency hopping: Switched to Channel 3
+2024-11-17 23:25:53,120 - INFO - Switched to Channel 5 due to interference.
+2024-11-17 23:25:53,120 - INFO - Recovery initiated: Switched to a new channel.
+2024-11-17 23:25:53,123 - INFO - Message encrypted for secure transmission
+2024-11-17 23:25:53,123 - INFO - Message decrypted successfully
+2024-11-17 23:27:12,506 - INFO - Initial communication channel set to: 2
+2024-11-17 23:27:12,703 - INFO - Machine Learning Jamming Detector Trained Successfully
+2024-11-17 23:27:12,703 - INFO - Encryption Cipher Initialized
